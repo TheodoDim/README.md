@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimosthenis Theodosiou</h1>
-<h3 align="center">I am currently studying Computer Science at the University of Athens</h3>
-
-- 🔭 I’m currently working on **creating a python based application for scientific calculations in the field of Crystalization**
+<h3 align="center">I am a second year student at the University of Athens studying Computer Science</h3>
 
 - 🌱 I’m currently learning **the fundamentals of the Python programming language**
+
+- 🔭 My current ongoing project is **a python based application for scientific calculations in the field of Crystalization**
 
 - 📫 How to reach me **theododimo@gmail.com**
 
